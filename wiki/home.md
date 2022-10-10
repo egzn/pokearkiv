@@ -1,6 +1,5 @@
 ---
 redirect_from: /
-published: true
 ---
 
 # PokéArkiv
